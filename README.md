@@ -1,6 +1,8 @@
 
 ![Banner](https://raw.githubusercontent.com/prajwal0210/prajwal0210/main/shutterstock_302406578-1462557225.jpg.webp)
 # Hi there, I'm Prajwal Gowda 👋
+I am a data scientist with 3 years of experience looking to improve the effectiveness, accuracy, and value of internal data processing. skilled in developing data regression models, applying predictive data modelling, and examining data mining techniques to provide insights and put into practise actionable solutions to challenging business challenges.
+Currently, I am pursuing a Master's degree Science to further deepen my expertise and stay up-to-date with the latest techn techniques. I am a problem solver at heart, and I enjoy working on complex data-challenges that require creativity and innovation.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Prajwalgowda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourlinkedin/)](https://www.linkedin.com/in/prajwal-gowda/)
 [![Gmail Badge](https://img.shields.io/badge/-prajwalgowda2101997@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prajwalgowda2101997@gmail.com)](mailto:prajwalgowda2101997@gmail.com)
